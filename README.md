@@ -41,6 +41,10 @@ flowchart TD
 
 ---
 
+## Briefing Example
+
+![e.g](briefing.png)
+
 ## 🖇️ Technical Deep Dive
 
 ### 🔹 1. Multi-Source Ingestion
